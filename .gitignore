@@ -1,0 +1,20 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset CIC-IDS2017 (downloaded locally)
+CIC-IDS2017/*.csv
+
+# Generated machine-learning artifacts
+*.pkl
+*.joblib
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local tooling
+.vscode/
+.DS_Store
+Thumbs.db
